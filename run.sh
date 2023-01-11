@@ -20,9 +20,9 @@ python remove_shadow.py \
     --detail_refine_loss \
     --visualize_detail \
     \
-    --step 1200 \
-    --stage2 300 \
-    --stage3 350 \
-    --stage4 800 \
+    --step 800 \
+    --stage2 200 \
+    --stage3 230 \
+    --stage4 530 \
     \
     --save_inter_res \
